@@ -1,4 +1,4 @@
-alias tocode='cd /opt/code'
+alias tocode='cd ~/Dev'
 alias totmx='cd ~/.tmux/resurrect'
 alias sshmac='ssh grace@grace-mac'
 alias sshub='ssh grace@grace-ubuntu'
@@ -18,6 +18,6 @@ newkey()
 alias ..='cd ..'
 alias ....='cd ../..'
 
-cd /opt/code
+cd ~/Dev 
 
 
