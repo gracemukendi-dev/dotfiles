@@ -18,7 +18,7 @@ newkey()
 alias ..='cd ..'
 alias ....='cd ../..'
 alias tobash='chsh -s bin/bash'
-alias tosh='chsh -s '/bin/tcsh'
+alias tosh='chsh -s /bin/tcsh'
 cd ~/Dev 
 
 
